@@ -56,12 +56,10 @@ This project provides a solid understanding of how to create a single-page CV us
 
 ## Project Preview
 
-![Project Preview](https://github.com/aditnurdiansyah/assets/project-preview.png)
-
 <p align="center">
   <img src="/assets/project-preview.png" alt="Project Preview" width="800">
 </p>
 
-[Project URL](https://roadmap.sh/projects/single-page-cv)
+This repository contains frontend projects built following the [Roadmap.sh](https://roadmap.sh/projects/single-page-cv) front-end developer path
 
 ---
