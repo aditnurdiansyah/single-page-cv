@@ -1,0 +1,19 @@
+main {
+    width: 550px;
+    margin: 100px auto;
+    padding: 80px 50px;
+    font-family: Arial, sans-serif;
+    border: 3px solid black;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+h2, h3 {
+    color: green;
+}
+
+h4 {
+    color: blue;
+}
