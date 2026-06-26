@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves creating a single-page Curriculum Vitae (CV) using HTML and CSS. The primary objective is to learn how to structure a CV semantically and prepare it for future styling. The project covers essential aspects such as semantic HTML, SEO meta tags, Open Graph (OG) tags for social media sharing, and the inclusion of a favicon.
+This project involves creating a single-page Curriculum Vitae (CV) using only HTML. The primary objective is to learn how to structure a CV semantically and prepare it for future styling. The project covers essential aspects such as semantic HTML, SEO meta tags, Open Graph (OG) tags for social media sharing, and the inclusion of a favicon.
 
 ## Project Requirements
 
@@ -48,7 +48,7 @@ This project involves creating a single-page Curriculum Vitae (CV) using HTML an
 
 ## Conclusion
 
-This project provides a solid understanding of how to create a single-page CV using HTML, styling with basic CSS, apply basic SEO principles, and prepare the webpage for future styling. By completing this project, you are well-prepared to move on to more advanced web development topics.
+This project provides a solid understanding of how to create a single-page CV using HTML, apply basic SEO principles, and prepare the webpage for future styling. By completing this project, you are well-prepared to move on to more advanced web development topics.
 
 ## Project Preview
 
